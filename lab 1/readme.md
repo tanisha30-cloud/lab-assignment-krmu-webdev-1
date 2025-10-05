@@ -38,5 +38,9 @@ To view my project you can follow the below simple steps:
 2. Click on the file named "index.html".
 3. Then click on the view raw or open with live server to open it in your browser.
 
+Here is my passport size photograph that I used in my project:
+![113](https://github.com/user-attachments/assets/59ee5f2f-3967-4689-ac10-7ca6c68110b0)
+
+
 
 
